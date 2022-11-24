@@ -19,7 +19,7 @@ export const FONTS = {
 	"heading4": css`
 		font-size: 2.4rem;
 		line-height: 3.4rem;
-		font-weight: 500;
+		font-weight: medium;
 	`,
 	// eslint-disable-next-line @typescript-eslint/naming-convention
 	"text0.5": css`
